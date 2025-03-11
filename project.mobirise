@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "GuppTune Games",
-    "currentPage": "guppmaker.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "startm5",
       "title": "StartM5",
@@ -61,7 +61,7 @@
     "versionPublish": "5.9.18",
     "imageResize": false,
     "favicon": "@PROJECT_PATH@/assets/images/img-20230623-162418-128x128.png",
-    "mbrsiteDomain": "fjp8vof8p1",
+    "mbrsiteDomain": "d5tyei0hft",
     "usedWebp": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
